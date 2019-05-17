@@ -2,6 +2,7 @@
 
 ## Databases
 
-- AWS Redshift
-		[Getting Started with Amazon Redshift, Pact, 2013](https://www.packtpub.com/big-data-and-business-intelligence/getting-started-amazon-redshift)
+### AWS Redshift
+
+- [Getting Started with Amazon Redshift, Pact, 2013](https://www.packtpub.com/big-data-and-business-intelligence/getting-started-amazon-redshift)
 	
