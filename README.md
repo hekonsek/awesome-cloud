@@ -2,12 +2,18 @@
 
 ## AWS
 
+### Containers
+
+#### ECS & Fargate
+
+- [Amazon Fargate Quick Start Guide, Pact, 2018](https://www.amazon.com/Amazon-Fargate-Quick-Start-Guide-ebook/dp/B07FY8VFGL)
+
 ### Data
 
 #### AWS Redshift
 
 - [Getting Started with Amazon Redshift, Pact, 2013](https://www.packtpub.com/big-data-and-business-intelligence/getting-started-amazon-redshift)
-	
+
 ## Java
 
 ### Spring Boot
