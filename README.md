@@ -2,6 +2,12 @@
 
 ## AWS
 
+### Infrastructure
+
+#### Route53
+
+- [Route 53: Why You Should Consider Migrating Your DNS Needs to AWS](https://cloudacademy.com/blog/route53-dns-migration/)
+
 ### Containers
 
 #### ECS & Fargate
