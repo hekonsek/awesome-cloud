@@ -6,7 +6,8 @@
 
 #### Route53
 
-- [Route 53: Why You Should Consider Migrating Your DNS Needs to AWS](https://cloudacademy.com/blog/route53-dns-migration/)
+- ["How DNS Works: Domain Name System Terminology" blog post from cloudacademy.com](https://cloudacademy.com/how-dns-works/)
+- ["Route 53: Why You Should Consider Migrating Your DNS Needs to AWS"  blog post from cloudacademy.com](https://cloudacademy.com/blog/route53-dns-migration/)
 
 ### Containers
 
