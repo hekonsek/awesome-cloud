@@ -4,6 +4,10 @@
 
 ### Infrastructure
 
+#### CloudFormation
+
+- [Learn CloudFormation: Write, deploy, and maintain your AWS infrastructure, Packt, 2018](https://www.amazon.com/Learn-CloudFormation-deploy-maintain-infrastructure-ebook/dp/B07FDD15KT) introduction-level book about AWS CloudFormation.
+
 #### Route53
 
 - ["How DNS Works: Domain Name System Terminology"](https://cloudacademy.com/how-dns-works/) blog post from cloudacademy.com
@@ -13,13 +17,13 @@
 
 #### ECS & Fargate
 
-- [Amazon Fargate Quick Start Guide, Pact, 2018](https://www.amazon.com/Amazon-Fargate-Quick-Start-Guide-ebook/dp/B07FY8VFGL)
+- [Amazon Fargate Quick Start Guide, Packt, 2018](https://www.amazon.com/Amazon-Fargate-Quick-Start-Guide-ebook/dp/B07FY8VFGL)
 
 ### Data
 
 #### AWS Redshift
 
-- [Getting Started with Amazon Redshift, Pact, 2013](https://www.packtpub.com/big-data-and-business-intelligence/getting-started-amazon-redshift)
+- [Getting Started with Amazon Redshift, Packt, 2013](https://www.packtpub.com/big-data-and-business-intelligence/getting-started-amazon-redshift)
 
 ## Java
 
