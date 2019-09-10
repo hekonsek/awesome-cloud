@@ -23,14 +23,16 @@
 
 #### AWS Redshift
 
-- [Getting Started with Amazon Redshift, Packt, 2013](https://www.packtpub.com/big-data-and-business-intelligence/getting-started-amazon-redshift) - inttoduction level book about Redshift.
+- [Getting Started with Amazon Redshift, Packt, 2013](https://www.packtpub.com/big-data-and-business-intelligence/getting-started-amazon-redshift) - introduction level book about Redshift.
 
 ## DevOps
+
+- [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations, IT Revolution Press, 2018](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)
 
 ### Configuration management
 
 
-- [Spring Cloud Config reference documentation](https://cloud.spring.io/spring-cloud-config/reference/html) - reference documentation of Spring Cloud Config server for application-level configuration management.
+- [Spring Cloud Config reference documentation](https://cloud.spring.io/spring-cloud-config/reference/html)
 
 ## Java
 
