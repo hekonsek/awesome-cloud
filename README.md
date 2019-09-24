@@ -23,7 +23,7 @@
 
 #### AWS Redshift
 
-- [Getting Started with Amazon Redshift, Packt, 2013](https://www.packtpub.com/big-data-and-business-intelligence/getting-started-amazon-redshift) - introduction level book about Redshift.
+- [Getting Started with Amazon Redshift, Packt, 2013](https://www.packtpub.com/big-data-and-business-intelligence/getting-started-amazon-redshift)
 
 ## DevOps
 
@@ -39,5 +39,7 @@
 ### Spring Boot
 
 ## Go
+
+- [Go In Action, Manning, 2015](https://www.amazon.com/Go-Action-William-Kennedy/dp/1617291781)
 
 ### Cobra
